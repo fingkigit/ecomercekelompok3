@@ -16,11 +16,7 @@ class Product extends Model implements HasMedia
 
     protected $appends = ['gallery'];
 
-    /**
-     * Return the sluggable configuration array for this model.
-     *
-     * @return array
-     */
+    
     public function sluggable(): array
     {
         return [

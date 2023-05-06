@@ -12,11 +12,20 @@
 ```
 
 #### NAMA KELOMPOK 
--FINGKI JUNAIDI MANURUNG
--WILEKS
--RIO MARBUN
--WILSON SINAGA
--KEVIN TAMBUNAN
+```bash
+  Fingki junaidi Manurung
+```
+```bash
+ Wileks
+```
+```bash
+  Rio Marbun
+``````bash
+  Wilson Sinaga
+```
+```bash
+  Kevin Tambunan
+```
 
 
 #### Libary

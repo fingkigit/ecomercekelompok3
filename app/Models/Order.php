@@ -70,7 +70,8 @@ class Order extends Model
 	 *
 	 * @return void
 	 */
-	private static function _isOrderCodeExists($orderCode)
+
+    private static function _isOrderCodeExists($orderCode)
 	{
 		return Order::where('code', '=', $orderCode)->exists();
     }

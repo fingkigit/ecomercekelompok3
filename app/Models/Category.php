@@ -51,4 +51,5 @@ class Category extends Model implements HasMedia
     public function products(){
         return $this->hasMany(Product::class);
     }
+
 }

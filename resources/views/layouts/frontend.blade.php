@@ -6,7 +6,7 @@
     <meta name="keywords" content="Ogani, unica, creative, html" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Ogani | Template</title>
+    <title>Kelompok 3</title>
 
     <!-- Google Font -->
     <link
@@ -99,12 +99,6 @@
         <a href="#"><i class="fa fa-linkedin"></i></a>
         <a href="#"><i class="fa fa-pinterest-p"></i></a>
       </div>
-      <div class="humberger__menu__contact">
-        <ul>
-          <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-          <li>Free Shipping for all Order of $99</li>
-        </ul>
-      </div>
     </div>
     <!-- Humberger End -->
 
@@ -116,8 +110,7 @@
             <div class="col-lg-6 col-md-6">
               <div class="header__top__left">
                 <ul>
-                  <li><i class="fa fa-envelope"></i> hello@colorlib.com</li>
-                  <li>Free Shipping for all Order of $99</li>
+           
                 </ul>
               </div>
             </div>
@@ -224,8 +217,8 @@
                   <i class="fa fa-phone"></i>
                 </div>
                 <div class="hero__search__phone__text">
-                  <h5>+65 11.188.888</h5>
-                  <span>support 24/7 time</span>
+                  <h5>+Laravel</h5>
+                  <span>support kelompok3</span>
                 </div>
               </div>
             </div>
@@ -246,11 +239,6 @@
               <div class="footer__about__logo">
                 <a href="./index.html"><img src="{{ asset('frontend/img/logo.png') }}" alt="" /></a>
               </div>
-              <ul>
-                <li>Address: 60-49 Road 11378 New York</li>
-                <li>Phone: +65 11.188.888</li>
-                <li>Email: hello@colorlib.com</li>
-              </ul>
             </div>
           </div>
           <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-1">

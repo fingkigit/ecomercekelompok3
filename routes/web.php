@@ -23,6 +23,7 @@ Route::get('/product/{product:slug}', [\App\Http\Controllers\ProductController::
 
 // react route
 Route::get('products/{slug?}', [\App\Http\Controllers\ShopController::class, 'getProducts']);
+// Route::get('products', [\App\Http\Controllers\HomeController::class, 'getProducts']);
 Route::get('products', [\App\Http\Controllers\HomeController::class, 'getProducts']);
 Route::get('product-detail/{product:slug}', [\App\Http\Controllers\ProductController::class, 'getProductDetail']);
 Route::post('carts', [\App\Http\Controllers\CartController::class, 'store']);

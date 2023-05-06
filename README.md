@@ -3,7 +3,7 @@
 
 ## ERD
 
-![preview img](/erd.JPG)
+![preview img](/erd.jpg)
 
 ## Run Locally
 

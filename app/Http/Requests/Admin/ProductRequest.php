@@ -46,7 +46,7 @@ class ProductRequest extends FormRequest
                     'description' => ['required'],
                     'details' => ['required'],
                     'tags' => ['required'],
-                ];SD
+                ];
             default: break;      
         }
     }

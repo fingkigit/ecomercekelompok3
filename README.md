@@ -1,4 +1,5 @@
-# Laravel 9 & React js - Ecommerce application
+# Laravel kelompok 3
+
 
 ## Screenshots
 

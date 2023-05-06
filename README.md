@@ -11,11 +11,14 @@
   cd project-name
 ```
 
-#### NAMA KELOMPOK 
-#### Login
 
--   email = admin@example.com
--   password = 123
+#### NAMA KELOMPOK
+
+-   Fingki Junaidi Manurung
+-   Rio Marbun
+-   Wileks
+-   Wilson
+-   Kevin jeremi Tambunan
 
 
 #### Login

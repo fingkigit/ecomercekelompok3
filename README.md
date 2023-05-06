@@ -5,11 +5,7 @@
 
 ![preview img](/erd.jpg)
 
-## Run Locally
 
-```bash
-  cd project-name
-```
 
 
 #### NAMA KELOMPOK
@@ -19,6 +15,19 @@
 -   Wileks
 -   Wilson
 -   Kevin jeremi Tambunan
+
+#### Libary
+
+-   LIBARY SWEET ALERT
+-   LIBARY EXCEL
+-   TEMPLATE
+-   DLL
+
+#### NAMA KELOMPOK
+
+-   Menggunakan laravel breace
+-   menggunakan auth dan midleware
+-   menggunkan database migrations
 
 
 #### Login

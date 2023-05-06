@@ -1,6 +1,9 @@
 # Laravel kelompok 3
 
 
+##Link Vidio Demo Youtube
+https://youtu.be/djsgZfebSGc
+
 ## ERD
 
 ![preview img](/erd.jpg)

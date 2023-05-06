@@ -1,7 +1,7 @@
 # Laravel kelompok 3
 
 
-## Screenshots
+## ERD
 
 ![preview img](/preview.png)
 

@@ -67,7 +67,7 @@
                                     <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                                     Logout
                                 </a><br>
-                                <a href="{{ url('export') }}"> Export</a><br><br>
+                                <a href="{{ url('export') }}"> Export Data User</a><br><br>
 
                                 <form id="logout-form" action="{{ route('logout') }}" method="post">
                                     @csrf

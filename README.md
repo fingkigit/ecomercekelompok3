@@ -7,6 +7,10 @@
 
 ## Run Locally
 
+```bash
+  cd project-name
+```
+
 #### NAMA KELOMPOK 
 -FINGKI JUNAIDI MANURUNG
 -WILEKS

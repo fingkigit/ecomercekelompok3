@@ -11,7 +11,9 @@ https://youtu.be/rjQ83wQg20w
 ## tampilan create product oleh admin
 ![preview img](/admin.jpg)
 
-
+## tampilan keranjang dan shop pengunjung
+![preview img](/keranjang.jpg)
+![preview img](/shoptamu.jpg)
 
 #### NAMA KELOMPOK
 

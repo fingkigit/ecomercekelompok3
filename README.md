@@ -8,6 +8,8 @@ https://youtu.be/rjQ83wQg20w
 
 ![preview img](/erd.jpg)
 
+## tampilan create product oleh admin
+![preview img](/admin.jpg)
 
 
 
